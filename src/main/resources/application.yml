@@ -1,0 +1,7 @@
+spring:
+  application:
+    ui:
+      title: "Test"
+logging:
+  level:
+    root: INFO
